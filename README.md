@@ -2,7 +2,7 @@
 A set of host and IP address lists, intended to be used in [DNS reverse policy
 zones](https://tools.ietf.org/id/draft-vixie-dnsop-dns-rpz-00.html#rfc.abstract).
 
-* wzd-host-whitelist
+* wzd-host-whitelist.txt
   * Based on Amazons current list of most popular web sites.
 * wzd-host-blacklist.txt
   * Based on a number of lists of sites distributing malware,
